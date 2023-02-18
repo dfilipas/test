@@ -1,4 +1,4 @@
-pe MAC
+<!-- pe MAC -->
 git config --global alias.ac "! git add -A && git commit -m "
-Pe Win
+<!-- Pe Win -->
 git config --global alias.ac "!git add -A && git commit -m "
